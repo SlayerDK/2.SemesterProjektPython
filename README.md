@@ -18,6 +18,7 @@ sudo pip3 install pyserial
 ## Boot script
 file path: root/etc/rc.local
 
+```
 #!/bin/sh -e
 #
 # rc.local
@@ -39,3 +40,4 @@ fi
 
 sudo python3 /home/rpi/2.SemesterProjektPython/server.py&
 exit 0
+```
