@@ -6,7 +6,7 @@ SUUUUP BITHCES
 sudo apt update
 sudo apt upgrade
 
-##I nstall pip3
+## Install pip3
 sudo apt-get install python3-pip
 
 ## Install Flask
