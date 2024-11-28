@@ -6,11 +6,11 @@ SUUUUP BITHCES
 sudo apt update
 sudo apt upgrade
 
-##Install pip3
+##I nstall pip3
 sudo apt-get install python3-pip
 
-##Install Flask
+## Install Flask
 pip install flask
 
-##Install PySerial
+## Install PySerial
 sudo pip3 install pyserial
