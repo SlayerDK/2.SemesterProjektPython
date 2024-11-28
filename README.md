@@ -10,7 +10,7 @@ sudo apt upgrade
 sudo apt-get install python3-pip
 
 ## Install Flask
-pip install flask
+pip3 install flask
 
 ## Install PySerial
 sudo pip3 install pyserial
