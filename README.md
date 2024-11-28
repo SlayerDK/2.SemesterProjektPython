@@ -1,5 +1,16 @@
 # 2.SemesterProjektPython
 SUUUUP BITHCES
 
-Her er vores server kode.
-Python filen modtager uart og sender det vidre til html
+# Dependencies
+## Update system
+sudo apt update
+sudo apt upgrade
+
+##Install pip3
+sudo apt-get install python3-pip
+
+##Install Flask
+pip install flask
+
+##Install PySerial
+sudo pip3 install pyserial
